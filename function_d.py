@@ -2,8 +2,10 @@ def max_value(numbers):
     """ This function returns the largest number
         in the list.
     """
-   
-    return max(numbers)
+
+    max_val=max(numbers)
+    return max_val
+
 
 
 if __name__ == "__main__":
